@@ -1,1 +1,1 @@
-# Fruit-Game
+The Game is similar to Fruit Ninja Game which Hyped Android Market as Soon as it was Launched .So I tried to develop similar Fruit Slice Game which Slice the fruit as user Move the mouse cursor over it the fruit explodes and Score is incremented over score Board. The designing of the game is done through basic HTML and CSS and JavaScript library used is jQuery which is easier than other frameworks 
